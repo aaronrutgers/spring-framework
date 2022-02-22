@@ -1,7 +1,7 @@
-package com.luban.test;
+package com.luban.service;
 
 import org.springframework.stereotype.Component;
 
-@Component
+@Component("c")
 public class CityService {
 }
